@@ -15,14 +15,6 @@ The training is adversarial: the generator tries to fool the discriminator, whil
 
 ---
 
-## 🖼 Sample Output
-
-After training, the generator can produce digit images like:
-
-![Sample Output](#) *(You can add screenshots later)*
-
----
-
 ## 🧪 Requirements
 
 - Python 3.6+
